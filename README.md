@@ -30,7 +30,7 @@
 * [Installation](#-Installation)
 * [Usage](#-Usage)
 * [License](#-Installation)
-* [Contributing](#-Contributing)
+* [Link to the App](#-Link-to-the-app)
 * [Tests](#-Tests)
 * [Questions](#-Contact-Information)
 
@@ -71,7 +71,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Create notes on the go.
 
-# License
+## Screenshot
+
+![app](./assets/app.png)
 
 ## License
 
@@ -79,17 +81,15 @@ Create notes on the go.
   For more information, visit this link.<br/>
   <https://opensource.org/licenses/MIT>
   
-# Contributing
+# Link to the app
 
- just me.
+ (<https://note-tracker2662.herokuapp.com/>)
 
 # Tests
 
  none done .
 
 # Contact Information
-
-  ![Developer Profile Picture](undefined)
 
 * GitHub Username: MichaelPappas2662
 * Contact Email: email@email.com
